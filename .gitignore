@@ -1,0 +1,6 @@
+.env
+.idea
+
+build/
+static/jsapp/*
+logs/*
